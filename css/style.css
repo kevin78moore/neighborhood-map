@@ -1,21 +1,18 @@
 html,
 body {
 	height: 100%;
-	margin: 0;
-	padding: 0;
 }
 
 .header {
   background-color: #808080;
 	width: 100%;
 	text-align: center;
-	color: white;
+	color: black;
 }
 #map {
 	height: 545px;;
 	width: 100%;
 }
-
 
 /* Base Styles Skeleton Framework http://getskeleton.com/ */
 
@@ -25,12 +22,9 @@ body {
   font-size: 1.5em;
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Comic Sans MS";
+  font-family: "Calibri";
   color: #222; }
 
-
-/* Typography
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300; }
 h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
@@ -40,7 +34,6 @@ h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
-/* Larger than phablet */
 @media (min-width: 550px) {
   h1 { font-size: 5.0rem; }
   h2 { font-size: 4.2rem; }
