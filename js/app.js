@@ -1,5 +1,3 @@
-/*========== M O D E L =============*/
-
 var model = [
   {
     name: "Simi Valley Town Center",
@@ -50,9 +48,9 @@ var model = [
 		venueid: "4d3102ed2c76a143e5bb60c7"
   },
   {
-    name: "Simi Valley High School",
-		lat: 34.277910,
-		lng: -118.684779,
+    name: "In-N-Out Burger",
+		lat: 34.283061,
+		lng: -118.690836,
 		show: true,
 		selected: false,
 		venueid: "4b643ef6f964a52037a62ae3"
@@ -83,7 +81,7 @@ var model = [
   }
 ];
 
-/*====== View Model =========*/
+/* View Model */
 
 var viewModel = function() {
 
