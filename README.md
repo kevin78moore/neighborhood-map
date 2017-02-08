@@ -1,6 +1,6 @@
 Neighborhood Map Project
 
-This Project is to Make a Map of a Neighborhood showing my favorite places in my hometown city.
+In this project, I created a map showcasing my favorite locations in my hometown city of Simi Valley.
 
 APIs & Frameworks Used
   • KnockoutJS
@@ -10,4 +10,3 @@ APIs & Frameworks Used
 To Run Project
   • Download the Project's files
   • Open the index.html file
-  • Click on the List or the Points on the Map
